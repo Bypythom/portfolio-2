@@ -181,19 +181,19 @@ nav ul li a:hover::after{
 }
 
 .services-list .services-container-1{
-    background-image: url('/Portfolio-1.0/img/IMG_Hyrox_Lunge.JPG');
+    background-image: url('/img/IMG_Hyrox_Lunge.JPG');
     background-size: 50%;
     background-repeat: no-repeat;
     background-position: center;
 }
 .services-list .services-container-2{
-    background-image: url('/Portfolio-1.0/img/IMG_CoffeeDark.JPG');
+    background-image: url('/img/IMG_CoffeeDark.JPG');
     background-size: 50%;
     background-repeat: no-repeat;
     background-position: center;
 }
 .services-list .services-container-3{
-    background-image: url('/Portfolio-1.0/img/IMG_Travel.jpeg');
+    background-image: url('/img/IMG_Travel.jpeg');
     background-size: 50%;
     background-repeat: no-repeat;
     background-position: center;
